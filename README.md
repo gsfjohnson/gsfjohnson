@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gsfjohnson
-- 👀 I’m interested in code.
-- 🌱 I’m currently learning javascript.
+- 👀 Intrigued by Code!
+- 🌱 Learning javascript.
 - 💞️ Collaborate on big-social alternatives and p2p protos.
 
 <!---
